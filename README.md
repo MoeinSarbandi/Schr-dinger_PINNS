@@ -12,5 +12,9 @@ Before running the notebook, ensure you have the following dependencies installe
 
 You can install all required dependencies by running:
 
-```bash
-pip install numpy matplotlib seaborn torch
+
+## Contributing
+Contributions to enhance this project are warmly welcomed, including but not limited to:
+- Extensions or modifications to solve different equations using PINNs.
+- Enhancements in data visualization for better interpretation of results.
+
