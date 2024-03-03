@@ -23,12 +23,12 @@ To demonstrate the impact of incorporating physics into the loss function of neu
 ### Without Using Physics in Loss Function
 Below is the result from a neural network trained without considering physical laws in its loss function. This approach might not fully capture the underlying physical phenomena, leading to less accurate or generalized solutions.
 
-![Without Using Physics in Loss Function](path/to/your/fig1.png)
+![Without Using Physics in Loss Function](https://github.com/MoeinSarbandi/Schr-dinger_PINNS/blob/main/1NN.png)
 
 ### Using PINNs
 The figure below showcases the results from using Physics-Informed Neural Networks (PINNs). By integrating physical laws into the loss function, PINNs can achieve more accurate and physically plausible solutions, demonstrating the power of this approach.
 
-![Using Physics-Informed Neural Networks (PINNs)](path/to/your/fig2.png)
+![Using Physics-Informed Neural Networks (PINNs)](https://github.com/MoeinSarbandi/Schr-dinger_PINNS/blob/main/1PINN.png)
 
 This comparison clearly shows the advantages of incorporating physical laws into the training of neural networks, especially for tasks rooted in complex physical phenomena like solving the Schrödinger Equation.
 
